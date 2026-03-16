@@ -1,0 +1,16 @@
+<template>
+  <div class="food-card">
+    <div>寿司</div>
+    <div>🍣</div>
+  </div>
+</template>
+
+<style scoped>
+.food-card {
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  font-size: 2rem;
+  padding: 16px;
+  cursor: pointer;
+}
+</style>
