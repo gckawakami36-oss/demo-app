@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import FoodCard from './components/FoodCard.vue'
+import FoodCard from './FoodCard.vue'
 const foods = ref([
   { name: '寿司', emoji: '🍣' },
   { name: 'ハンバーガー', emoji: '🍔' },
